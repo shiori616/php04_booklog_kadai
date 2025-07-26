@@ -3,7 +3,7 @@
 <br>
 ②課題内容（どんな作品か）<br>
 読んだ本、読みたい本をGoogle APIで検索して登録する<br>
-↑先週までの課題に会員登録/ログイン機能追加<br>
+↑ログインせずに設定した場合に、ログイン画面へ遷移<br>
 <br>
 ③アプリのデプロイURL<br>
 https://gsky.sakura.ne.jp/php04_kadai_UL_v1/<br>
